@@ -12,6 +12,7 @@
 ## Introduction <a name = "introduction"></a>
 We made a website for the fire stations in the whole Burgas region. It was a difficult task, but we did it. We think it went well and will help you when you need it.
 
+![Screenshot 2021-04-21 224042](https://user-images.githubusercontent.com/63719298/115773686-482b3300-a3b9-11eb-876f-bcedb237f08d.png)
 
 ## Team	<a name = "team"></a>
 1. **N. Brankov** - **Scrum trainer**	
