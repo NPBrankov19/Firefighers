@@ -2,14 +2,15 @@
 
 ---
 
-## Contents
+## Table of Contents
+
 + [Introduction](#introduction)
 + [Team](#team)
 + [Tabs](#tabs)
 
 
 ## Introduction <a name = "introduction"></a>
-
+We made a website for the fire stations in the whole Burgas region. It was a difficult task, but we did it. We think it went well and will help you when you need it.
 
 
 ## Team	<a name = "team"></a>
@@ -33,8 +34,7 @@
 
 
 ## Tabs <a name = "tabs"></a>
-
-
+There are five tabs on our site. Each leads to a different information site. The first is for fire centers in the region. The second is for the teams in each station. The third is for trucks that can be used for various fires. The fourth is for signaling in case of fire. You can enter what the fire is and where it is. The fifth contains information about us.
 
 
 
