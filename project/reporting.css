@@ -41,14 +41,14 @@ ul li a:hover{
 }
 .button{
   border: none;
-  color: black;
+  BACKGROUND-color: green;
   padding: 8px 16px;
   text-align: center;
   
 }
 .button2{
   border: none;
-  color: black;
+  BACKGROUND-color: red;
   padding: 8px 16px;
   text-align: center;
   
