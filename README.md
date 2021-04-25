@@ -2,7 +2,7 @@
 
 ---
 
-## Table of Contents
+## Content
 
 + [Introduction](#introduction)
 + [Team](#team)
@@ -39,4 +39,3 @@ There are five tabs on our site. Each leads to a different information site. The
 
 ![Screenshot 2021-04-22 214632](https://user-images.githubusercontent.com/63719298/115773217-b8858480-a3b8-11eb-9d74-9aaf662b5ae1.png)
 
-## Have fun!
