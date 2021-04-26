@@ -1,25 +1,11 @@
-const text = document.querySelector(".fancy");
-const strText = text.textcontent;
-const splitText = strText.split ("");
-text.textContent = "";
-for (let i = 0; i < splitText.length; i++){
-    text.innerhtml += "<span>" + splitText[i] + "<span>";
-}
+var i = 0;
+var txt = 'BURGAS REGION FIREFIGHTERS';
+var speed = 50;
 
-let char = 0;
-let timer = setInterval(onTick, 50);
-
-function onTick(){
-    const span = text.querySelectorAll ('span') [char];
-    span.classList.add('fade');
-    char++
-    if(char === splitText.length){
-        complete();
-        return;
-    }
-}
-
-function complete(){
-    clerInterval(timer);
-    timer = null;
+function typeWriter() {
+  if (i < txt.length) {
+    document.getElementById("demo").innerHTML += txt.charAt(i);
+    i++;
+    setTimeout(typeWriter, speed);
+  }
 }
